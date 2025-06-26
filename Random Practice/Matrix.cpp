@@ -1,3 +1,5 @@
+// This program displays Matrix Addition
+
 #include<iostream>
 using namespace std;
 
